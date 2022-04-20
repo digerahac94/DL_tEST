@@ -1,3 +1,24 @@
+# Controllable Toonification using Pretrained StyleGAN2
+
+![](imgs/result1.png)
+
+![](imgs/result2.png)
+
+## Code
+
+[toonify.ipynb](toonify.ipynb)
+
+## Pretrained Model
+
+- [face.pt](https://drive.google.com/uc?id=1dOBo4xWUwM7-BwHWZgp-kV1upaD6tHAh)
+- [disney.pt](https://drive.google.com/uc?id=1n2uQ5s2XdUBGIcZA9Uabz1mkjVvKWFeG)
+## Reference
+
+- https://github.com/mchong6/SOAT
+- https://github.com/rosinality/stylegan2-pytorch
+
+---
+
 # StyleGAN of All Trades: Image Manipulation with Only Pretrained StyleGAN
 ![](teaser.jpg)
 
